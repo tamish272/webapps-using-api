@@ -4,5 +4,5 @@
 * Developed a newsletter signup website that takes the user information and posts the data to ann external server using their API. 
 * newsletter-signup: (https://glacial-ridge-46305.herokuapp.com/)
 * API's used: 
-1. Open weather API(https://openweathermap.org/current) 
-2. Mailchimp API(https://mailchimp.com/developer/guides/marketing-api-conventions)
+1. Open weather API
+2. Mailchimp API
